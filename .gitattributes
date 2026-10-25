@@ -1,0 +1,5 @@
+# Windows scripts must keep CRLF line endings, also in the GitHub "Download ZIP"
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.md text eol=lf
+LICENSE text eol=lf
